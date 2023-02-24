@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.main-wrapper{
+    margin: 0 ;
+
+}
+.main-section{
+    padding: 20px 0;
+    background: linear-gradient(189.16deg, #390FC7 13.57%, #28234D 98.38%);
+    
+}
